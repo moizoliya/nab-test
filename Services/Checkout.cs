@@ -159,7 +159,7 @@ namespace Services
             var opr = conditionParts[0];
             var valueToCompare = int.Parse(conditionParts[1]);
             result = (opr == ">" && skuItemCount > valueToCompare) ||
-                     (opr == ">" && skuItemCount >= valueToCompare) ||
+                     (opr == ">=" && skuItemCount >= valueToCompare) ||
                      (opr == "<" && skuItemCount < valueToCompare) ||
                      (opr == "<=" && skuItemCount <= valueToCompare);
             return result;
