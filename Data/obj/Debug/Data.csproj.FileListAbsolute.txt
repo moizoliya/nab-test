@@ -1,0 +1,44 @@
+C:\Moiz\Projects\Analyzer\Data\bin\Debug\Data.dll
+C:\Moiz\Projects\Analyzer\Data\bin\Debug\Data.pdb
+C:\Moiz\Projects\Analyzer\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Moiz\Projects\Analyzer\Data\obj\Debug\Data.dll
+C:\Moiz\Projects\Analyzer\Data\obj\Debug\Data.pdb
+C:\Moiz\Projects\Analyzer\Data\bin\Debug\CsvHelper.dll
+C:\Moiz\Projects\Analyzer\Data\bin\Debug\CsvHelper.xml
+P:\Paul Warnes\Analyzer\Data\bin\Debug\Data.dll
+P:\Paul Warnes\Analyzer\Data\bin\Debug\Data.pdb
+P:\Paul Warnes\Analyzer\Data\bin\Debug\CsvHelper.dll
+P:\Paul Warnes\Analyzer\Data\bin\Debug\CsvHelper.xml
+P:\Paul Warnes\Analyzer\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+P:\Paul Warnes\Analyzer\Data\obj\Debug\Data.dll
+P:\Paul Warnes\Analyzer\Data\obj\Debug\Data.pdb
+C:\Development\Agl-test\Data\bin\Debug\Data.dll
+C:\Development\Agl-test\Data\bin\Debug\Data.pdb
+C:\Development\Agl-test\Data\bin\Debug\CsvHelper.dll
+C:\Development\Agl-test\Data\bin\Debug\CsvHelper.xml
+C:\Development\Agl-test\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Development\Agl-test\Data\obj\Debug\Data.dll
+C:\Development\Agl-test\Data\obj\Debug\Data.pdb
+D:\Development\tmp\agl-test\Data\bin\Debug\Data.dll
+D:\Development\tmp\agl-test\Data\bin\Debug\Data.pdb
+D:\Development\tmp\agl-test\Data\bin\Debug\CsvHelper.dll
+D:\Development\tmp\agl-test\Data\bin\Debug\CsvHelper.xml
+D:\Development\tmp\agl-test\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Development\tmp\agl-test\Data\obj\Debug\Data.dll
+D:\Development\tmp\agl-test\Data\obj\Debug\Data.pdb
+D:\Projects\nab-text\Data\bin\Debug\Data.dll
+D:\Projects\nab-text\Data\bin\Debug\Data.pdb
+D:\Projects\nab-text\Data\bin\Debug\CsvHelper.dll
+D:\Projects\nab-text\Data\bin\Debug\CsvHelper.xml
+D:\Projects\nab-text\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Projects\nab-text\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Projects\nab-text\Data\obj\Debug\Data.dll
+D:\Projects\nab-text\Data\obj\Debug\Data.pdb
+D:\Projects\nab-test\Data\bin\Debug\Data.dll
+D:\Projects\nab-test\Data\bin\Debug\Data.pdb
+D:\Projects\nab-test\Data\bin\Debug\CsvHelper.dll
+D:\Projects\nab-test\Data\bin\Debug\CsvHelper.xml
+D:\Projects\nab-test\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Projects\nab-test\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Projects\nab-test\Data\obj\Debug\Data.dll
+D:\Projects\nab-test\Data\obj\Debug\Data.pdb

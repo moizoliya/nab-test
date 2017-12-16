@@ -1,0 +1,72 @@
+C:\Moiz\Projects\Analyzer\App\bin\Debug\App.exe.config
+C:\Moiz\Projects\Analyzer\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Moiz\Projects\Analyzer\App\bin\Debug\App.exe
+C:\Moiz\Projects\Analyzer\App\bin\Debug\App.pdb
+C:\Moiz\Projects\Analyzer\App\bin\Debug\Services.dll
+C:\Moiz\Projects\Analyzer\App\bin\Debug\CsvHelper.dll
+C:\Moiz\Projects\Analyzer\App\bin\Debug\Data.dll
+C:\Moiz\Projects\Analyzer\App\bin\Debug\Services.pdb
+C:\Moiz\Projects\Analyzer\App\bin\Debug\CsvHelper.xml
+C:\Moiz\Projects\Analyzer\App\bin\Debug\Data.pdb
+C:\Moiz\Projects\Analyzer\App\obj\Debug\App.exe
+C:\Moiz\Projects\Analyzer\App\obj\Debug\App.pdb
+P:\Paul Warnes\Analyzer\App\bin\Debug\App.exe.config
+P:\Paul Warnes\Analyzer\App\bin\Debug\App.exe
+P:\Paul Warnes\Analyzer\App\bin\Debug\App.pdb
+P:\Paul Warnes\Analyzer\App\bin\Debug\Data.dll
+P:\Paul Warnes\Analyzer\App\bin\Debug\Services.dll
+P:\Paul Warnes\Analyzer\App\bin\Debug\CsvHelper.dll
+P:\Paul Warnes\Analyzer\App\bin\Debug\Data.pdb
+P:\Paul Warnes\Analyzer\App\bin\Debug\Services.pdb
+P:\Paul Warnes\Analyzer\App\bin\Debug\CsvHelper.xml
+P:\Paul Warnes\Analyzer\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+P:\Paul Warnes\Analyzer\App\obj\Debug\App.exe
+P:\Paul Warnes\Analyzer\App\obj\Debug\App.pdb
+C:\Development\Agl-test\App\bin\Debug\App.exe.config
+C:\Development\Agl-test\App\obj\Debug\App.exe
+C:\Development\Agl-test\App\obj\Debug\App.pdb
+C:\Development\Agl-test\App\bin\Debug\App.exe
+C:\Development\Agl-test\App\bin\Debug\App.pdb
+C:\Development\Agl-test\App\bin\Debug\Data.dll
+C:\Development\Agl-test\App\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Agl-test\App\bin\Debug\Services.dll
+C:\Development\Agl-test\App\bin\Debug\Data.pdb
+C:\Development\Agl-test\App\bin\Debug\Services.pdb
+C:\Development\Agl-test\App\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Agl-test\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\Development\tmp\agl-test\App\bin\Debug\App.exe.config
+D:\Development\tmp\agl-test\App\obj\Debug\App.exe
+D:\Development\tmp\agl-test\App\obj\Debug\App.pdb
+D:\Development\tmp\agl-test\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\Development\tmp\agl-test\App\bin\Debug\App.exe
+D:\Development\tmp\agl-test\App\bin\Debug\App.pdb
+D:\Development\tmp\agl-test\App\bin\Debug\Data.dll
+D:\Development\tmp\agl-test\App\bin\Debug\Newtonsoft.Json.dll
+D:\Development\tmp\agl-test\App\bin\Debug\Services.dll
+D:\Development\tmp\agl-test\App\bin\Debug\Data.pdb
+D:\Development\tmp\agl-test\App\bin\Debug\Services.pdb
+D:\Development\tmp\agl-test\App\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\nab-text\App\bin\Debug\App.exe.config
+D:\Projects\nab-text\App\bin\Debug\App.exe
+D:\Projects\nab-text\App\bin\Debug\App.pdb
+D:\Projects\nab-text\App\bin\Debug\Data.dll
+D:\Projects\nab-text\App\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\nab-text\App\bin\Debug\Services.dll
+D:\Projects\nab-text\App\bin\Debug\Data.pdb
+D:\Projects\nab-text\App\bin\Debug\Services.pdb
+D:\Projects\nab-text\App\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\nab-text\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\Projects\nab-text\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\Projects\nab-text\App\obj\Debug\App.exe
+D:\Projects\nab-text\App\obj\Debug\App.pdb
+D:\Projects\nab-test\App\bin\Debug\App.exe.config
+D:\Projects\nab-test\App\bin\Debug\App.exe
+D:\Projects\nab-test\App\bin\Debug\App.pdb
+D:\Projects\nab-test\App\bin\Debug\Data.dll
+D:\Projects\nab-test\App\bin\Debug\Services.dll
+D:\Projects\nab-test\App\bin\Debug\Data.pdb
+D:\Projects\nab-test\App\bin\Debug\Services.pdb
+D:\Projects\nab-test\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\Projects\nab-test\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\Projects\nab-test\App\obj\Debug\App.exe
+D:\Projects\nab-test\App\obj\Debug\App.pdb
